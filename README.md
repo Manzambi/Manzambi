@@ -3,6 +3,7 @@
 ###### mi web Personal: https://webpersonal-7aba6.web.app/
 
 ######  https://join.com/candidate
+###### 17 repositorios publicos, 10 privados (mios personales)
 
 **Manzambi/Manzambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
